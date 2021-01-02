@@ -1,4 +1,4 @@
-# my-project
+# Simple CRUD To Do Vue JS
 
 > A Vue.js project
 
